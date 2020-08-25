@@ -1,0 +1,68 @@
+.main_nav {
+    height: 60px;
+    background-color: lightgrey;
+
+}
+.main_nav ul{
+    border: 1px solid #333333;
+    padding:0;
+}
+
+.main_nav li{
+    background-color: lightslategray;
+    display:inline-block; 
+    padding: 20px 30px;
+    margin-left:0;
+    color: white; 
+}
+
+.left-side {
+    widows: 27%;
+    float: left;
+}
+
+.main-content {
+    width: 70%;
+    float: left;
+}
+
+.profile-image {
+    float: left;
+    margin-right: 25px;
+}
+
+.action-container {
+}
+
+
+.action-heading {
+    clear: both;
+    padding: 40px 20px;
+    margin: 0 auto; 
+    text-align: center;
+}
+
+.closeupshot {
+    display: inline-block;
+    width: 30%;
+
+}
+
+.closeupshot img{
+    width: 300px; 
+    margin-right: 10px;
+}
+
+/* left-side section */
+.left-side {
+    border: 1px solid #333333;
+    padding: 1%;
+}
+
+.animal-name img{ 
+    width: 50%
+}
+
+.animal-name p{ 
+    text-align: center;
+}
